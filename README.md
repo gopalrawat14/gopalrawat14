@@ -21,11 +21,6 @@ From cleaning millions of rows in SQL to visualizing insights in Tableau, my goa
 ### 🧠 **Currently Exploring**  
 🐍 Python | 🗃️ SQL | 📈 Tableau | 📊 Data Visualization | 📚 Statistical Analysis | ☁️ Cloud Analytics  
 
----
-
-### 🤝 **Let’s Connect**  
-🔗 [LinkedIn](https://www.linkedin.com/in/gopalrawat/)  
-
 
 ---
 
