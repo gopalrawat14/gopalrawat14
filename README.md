@@ -26,11 +26,6 @@ From cleaning millions of rows in SQL to visualizing insights in Tableau, my goa
 
 ✨ *Data tells a story — I just love being the storyteller.*
 
-## 🐍 Contribution Graph Animation  
-
-![GitHub Snake Light](https://github.com/gopalrawat14/gopalrawat14/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://github.com/gopalrawat14/gopalrawat14/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gopalrawat) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gopalrawwatt@gmail.com) 
