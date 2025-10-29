@@ -1,26 +1,35 @@
-## 👋 Hey there! I'm Gopal Rawat  
+## 👋 Hey there, I'm **Gopal Rawat**  
 
-I’m a **Computer Science Engineer specializing in AI & Machine Learning**, passionate about uncovering stories hidden within data.  
-From cleaning millions of rows in SQL to visualizing insights through Tableau, I thrive on transforming raw data into **strategic, actionable intelligence** that drives real-world impact.  
+🎓 **Computer Science Engineer (AI & Machine Learning)**  
+💡 Passionate about turning **data into decisions** and **insights into impact**  
 
-My work bridges **analytics, business understanding, and storytelling** — where each dataset becomes an opportunity to improve decisions, optimize systems, and deliver measurable outcomes.
-
----
-
-### 🎯 Vision  
-To enable organizations to make **data-driven, transparent, and impactful decisions**, by designing analytical solutions that combine **clarity, creativity, and precision**.
+I love exploring patterns in large datasets, building analytical pipelines, and crafting dashboards that tell meaningful stories.  
+From cleaning millions of rows in SQL to visualizing insights in Tableau, my goal is to **bridge data, business, and strategy** through intelligent analysis.  
 
 ---
 
-### 🚀 Goal  
-To grow as a **Data Analyst** who not only extracts insights but also **translates data into business value** — using analytics as a bridge between numbers and meaningful decisions.  
+### 🎯 **Vision**  
+🌍 To empower organizations with **data-driven clarity** — enabling faster, smarter, and more ethical decision-making through analytics and visualization.  
 
 ---
 
-💡 *Currently exploring:*  
-Data Analytics · Business Intelligence · SQL · Python · Tableau · Statistical Modeling  
+### 🚀 **Goal**  
+📊 To grow as a **Data Analyst** who not only interprets numbers but **translates them into business value** — creating insights that drive real, measurable outcomes.  
 
-📫 **Let’s connect:** [LinkedIn](https://www.linkedin.com/in/gopalrawat/)
+---
+
+### 🧠 **Currently Exploring**  
+🐍 Python | 🗃️ SQL | 📈 Tableau | 📊 Data Visualization | 📚 Statistical Analysis | ☁️ Cloud Analytics  
+
+---
+
+### 🤝 **Let’s Connect**  
+🔗 [LinkedIn](https://www.linkedin.com/in/gopalrawat/)  
+
+
+---
+
+✨ *Data tells a story — I just love being the storyteller.*
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gopalrawat) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gopalrawwatt@gmail.com) 
 
