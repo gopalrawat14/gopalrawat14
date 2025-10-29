@@ -1,4 +1,26 @@
+## 👋 Hey there! I'm Gopal Rawat  
 
+I’m a **Computer Science Engineer specializing in AI & Machine Learning**, passionate about uncovering stories hidden within data.  
+From cleaning millions of rows in SQL to visualizing insights through Tableau, I thrive on transforming raw data into **strategic, actionable intelligence** that drives real-world impact.  
+
+My work bridges **analytics, business understanding, and storytelling** — where each dataset becomes an opportunity to improve decisions, optimize systems, and deliver measurable outcomes.
+
+---
+
+### 🎯 Vision  
+To enable organizations to make **data-driven, transparent, and impactful decisions**, by designing analytical solutions that combine **clarity, creativity, and precision**.
+
+---
+
+### 🚀 Goal  
+To grow as a **Data Analyst** who not only extracts insights but also **translates data into business value** — using analytics as a bridge between numbers and meaningful decisions.  
+
+---
+
+💡 *Currently exploring:*  
+Data Analytics · Business Intelligence · SQL · Python · Tableau · Statistical Modeling  
+
+📫 **Let’s connect:** [LinkedIn](https://www.linkedin.com/in/gopalrawat/)
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gopalrawat) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gopalrawwatt@gmail.com) 
 
